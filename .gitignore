@@ -3,6 +3,6 @@ venv
 
 mysite/mysite/__pycache__
 mysite/polls/__pycache__
-mysite/polls/migrations/__pychache__
+mysite/polls/migrations/__pycache__
 
 mysite/db.sqlite3
